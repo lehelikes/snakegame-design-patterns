@@ -3,7 +3,7 @@ package edu.snake.game.controller;
 public abstract class GameController implements Runnable {
 
   @Override
-  public void run() {
+  public final void run() {
     prepareGame();
     runGame();
   }

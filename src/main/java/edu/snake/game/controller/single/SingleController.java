@@ -2,7 +2,6 @@ package edu.snake.game.controller.single;
 
 import edu.snake.game.controller.GameController;
 import edu.snake.game.model.Apple;
-import edu.snake.game.GameConstants;
 import edu.snake.game.MainFrame;
 import edu.snake.game.model.Snake;
 import edu.snake.game.settings.SettingsManager;
